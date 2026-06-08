@@ -14,3 +14,5 @@ Daily Updates
 - ReKYC MOP handling for Email & Address (yet to start)
 
 - One time Scheduler (yet to start)
+
+- IBMBBAU-4425 Check when this API call (getReKycEligibility) is happening in Rekyc Update when proceed is clicked in the popup

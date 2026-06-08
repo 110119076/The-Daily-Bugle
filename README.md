@@ -1,7 +1,7 @@
 # The-Daily-Bugle
 Daily Updates
 
-- Pre mature withdrawl amount rounded off (needs to be removed)
+- Pre mature withdrawl amount rounded off (needs to be removed) => Done
 
 - DCS One Tap Token not working (check if from backend)
 

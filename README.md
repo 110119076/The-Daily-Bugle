@@ -3,11 +3,21 @@ Daily Updates
 
 **09-06-2026**
 
-- Email OTP sometimes going to exisiting email in Rekyc Enhance (checking)
+- Email OTP sometimes going to exisiting email in Rekyc Enhance (checking) => done
 
-- IBMBBAU-4523 Joint or Individual text change (yet to start)
+- IBMBBAU-4523 Joint or Individual text change (yet to start) => done
 
 - For JOF with more than 2 secondary JOOs disable joint radio button and by default choose Individually (yet to start)
+
+- Form 121 fetched projected income not getting cleared (Critical bug) -> (yet to start)
+
+- Form 121 validation for total sum interest fixes => Done
+
+- Check Prod issue for Nre Nro check API call (checking) => Not from UI (TIBCO to WSO2 issue)
+
+- Balance API without accountNo in Deposit Creation page (Critical bug) -> Checked => done
+
+- JOF Nominee Validation not working => Checked (yet to handle)
 
 
 **08-06-2026**

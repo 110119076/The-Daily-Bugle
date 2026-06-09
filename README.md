@@ -1,6 +1,17 @@
 # The-Daily-Bugle
 Daily Updates
 
+**09-06-2026**
+
+- Email OTP sometimes going to exisiting email in Rekyc Enhance (checking)
+
+- IBMBBAU-4523 Joint or Individual text change (yet to start)
+
+- For JOF with more than 2 secondary JOOs disable joint radio button and by default choose Individually (yet to start)
+
+
+**08-06-2026**
+
 - Pre mature withdrawl amount rounded off (needs to be removed) => Done
 
 - DCS One Tap Token not working (check if from backend) => From Backend ONLY
@@ -16,3 +27,5 @@ Daily Updates
 - One time Scheduler (yet to start) => Assigned to Aniket
 
 - IBMBBAU-4425 Check when this API call (getReKycEligibility) is happening in Rekyc Update when proceed is clicked in the popup => Done
+
+- Worked on few RAG architectures and pipelines

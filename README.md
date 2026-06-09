@@ -3,6 +3,10 @@ Daily Updates
 
 **09-06-2026**
 
+- JOO-JOF Deposit Add Nominee disabled for JOO confirm once
+
+- JOF-JOO Deposit if logged in customer choses Individual it should be same as SOW, so do we need to allow the Add Nominee?
+
 - Email OTP sometimes going to exisiting email in Rekyc Enhance (checking) => done
 
 - IBMBBAU-4523 Joint or Individual text change (yet to start) => done

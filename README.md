@@ -1,6 +1,20 @@
 # The-Daily-Bugle
 Daily Updates
 
+**10-06-2026**
+
+- Form 121 snack bar error messages fixes => done
+
+- Pincode Validation bug fixes (priority) => Assigned back to tester
+
+- If chosen Individual then you can allow the secondary nominee details in nominee (yet to start)
+
+- If chosen Jointly, don't allow the secondary nominee details in nominee screen (yet to start)
+
+- For JOF with more than 2 secondary JOOs disable joint radio button and by default choose Individually => done
+
+- JOO JOF initiateDeposit is calling without OTP verification - (yet to start)
+
 **09-06-2026**
 
 - JOO-JOF Deposit Add Nominee disabled for JOO confirm once

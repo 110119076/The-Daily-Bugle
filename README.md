@@ -1,6 +1,18 @@
 # The-Daily-Bugle
 Daily Updates
 
+**11-06-2026**
+
+- Rekyc Arrow mark pointer bug => (fixed)
+
+- classification as Others -> Grievance -> call mySRRequests in Dashboard and display in the dropdown API (to be taken in next release) -> Priority -> (yet to start)
+
+- Notification badge (started) => done
+
+- Email TLD to 4 in IB => done
+
+- Nominee Relationship displayed as Number => done
+
 **10-06-2026**
 
 - Form 121 snack bar error messages fixes => done

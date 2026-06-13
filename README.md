@@ -1,6 +1,14 @@
 # The-Daily-Bugle
 Daily Updates
 
+**12-06-2026**
+
+- Rekyc MOP handling ETA already given today -> yet to start
+
+- Address Line2 optional in Nom & Guardian -> in progress
+
+- 
+
 **11-06-2026**
 
 - Rekyc Arrow mark pointer bug => (fixed)
